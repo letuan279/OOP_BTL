@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Ancient Times",
+    "otherName": [],
+    "time": "3000 BC to 476 AD",
+    "isPrecededBy": null,
+    "isSucceededBy": {
+        "name": "Middle Ages",
+        "otherName": ["Medieval Period", "Medieval Times"],
+        "time": "476 AD to 1453 AD",
+        "isPrecededBy": null,
+        "isSucceededBy": null
+    }
+  },
+  {
+    "name": "Middle Ages",
+    "otherName": ["Medieval Period", "Medieval Times"],
+    "time": "476 AD to 1453 AD",
+    "isPrecededBy": {
+        "name": "Ancient Times",
+        "otherName": [],
+        "time": "3000 BC to 476 AD",
+        "isPrecededBy": null,
+        "isSucceededBy": null
+    },
+    "isSucceededBy": {
+        "name": "Renaissance",
+        "otherName": ["Renaissance Period"],
+        "time": "1453 AD to 1600 AD",
+        "isPrecededBy": null,
+        "isSucceededBy": null
+    }
+  },
+  {
+    "name": "Renaissance",
+    "otherName": ["Renaissance Period"],
+    "time": "1453 AD to 1600 AD",
+    "isPrecededBy": {
+        "name": "Middle Ages",
+        "otherName": ["Medieval Period", "Medieval Times"],
+        "time": "476 AD to 1453 AD",
+        "isPrecededBy": null,
+        "isSucceededBy": null
+    },
+    "isSucceededBy": {
+        "name": "Modern Era",
+        "otherName": ["Modern Period"],
+        "time": "1600 AD to present",
+        "isPrecededBy": null,
+        "isSucceededBy": null
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[  
+  {    
+  	"name": "Battle of Waterloo",    
+  	"otherName": [],
+    "time": "18 June 1815",
+    "location": "Waterloo, Belgium"
+  },
+  {
+    "name": "Battle of Gettysburg",
+    "otherName": ["Gettysburg Campaign"],
+    "time": "1-3 July 1863",
+    "location": "Gettysburg, Pennsylvania, USA"
+  },
+  {
+    "name": "Battle of the Somme",
+    "otherName": ["Somme Offensive"],
+    "time": "1 July 1916 – 18 November 1916",
+    "location": "Somme, France"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "name": "George Washington",
+    "otherName": ["Father of His Country"],
+    "born": "February 22, 1732",
+    "died": "December 14, 1799",
+    "livedInEra": "18th century",
+    "relateEvent": [
+      {"name": "American Revolutionary War", "date": "1775-1783"},
+      {"name": "First President of the United States", "date": "1789-1797"}
+    ],
+    "isDescendanceOf": null,
+    "isParentOf": []
+  },
+  {
+    "name": "Abraham Lincoln",
+    "otherName": ["The Great Emancipator"],
+    "born": "February 12, 1809",
+    "died": "April 15, 1865",
+    "livedInEra": "19th century",
+    "relateEvent": [
+      {"name": "American Civil War", "date": "1861-1865"},
+      {"name": "Emancipation Proclamation", "date": "1863"}
+    ],
+    "isDescendanceOf": {"name": "Thomas Lincoln", "otherName": []},
+    "isParentOf": [{"name": "Robert Todd Lincoln", "otherName": []}]
+  }
+]
